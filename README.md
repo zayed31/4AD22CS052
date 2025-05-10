@@ -45,11 +45,6 @@ Ensure the following dependencies are installed:
 
 #### ▶️ Run the Backend
 
-Execute the following in your terminal or through an IDE (e.g., IntelliJ, VS Code):
-
-```bash
-./mvnw spring-boot:run
-```
 
 Backend available at: `http://localhost:5000`
 
@@ -91,7 +86,7 @@ Frontend available at: `http://localhost:3000`
 ## 🛠️ Tech Stack
 
 - **Frontend**: React.js, Tailwind CSS, Recharts  
-- **Backend**: Spring Boot, Java  
-- **Database**: MySQL
+- **Backend**: Spring Boot, Node js  
+
 
 ---
