@@ -6,17 +6,17 @@ A simple full-stack web application that allows users to view and analyze stock 
 
 ## 🧠 Project Overview
 
-This project is designed to demonstrate how a frontend (React.js) and backend (Spring Boot) can operate cohesively to construct a modern, responsive stock data dashboard.
+This project is designed to demonstrate how a frontend (React.js) and backend (Node js) can operate cohesively to construct a modern, responsive stock data dashboard.
 
 - **Frontend**: Implemented using React, TailwindCSS, and Recharts for rendering stock listings and visual graphs.
-- **Backend**: Built using Spring Boot, which exposes RESTful APIs to retrieve stock details and historical data.
+- **Backend**: Built using Node JS, which exposes RESTful APIs to retrieve stock details and historical data.
 
 ---
 
 ## 📁 Project Structure
 
 ```
-├── question1-backend/        # Spring Boot backend project
+├── question1-backend/        # Node JS
 └── question-2-frontend/      # React.js frontend project
 ```
 
@@ -39,7 +39,7 @@ Ensure the following dependencies are installed:
 
 - Node.js (v14 or later)
 - Java 17 or later (for Spring Boot)
-- MySQL (or modify the DB configuration accordingly)
+
 
 ---
 
@@ -86,7 +86,7 @@ Frontend available at: `http://localhost:3000`
 ## 🛠️ Tech Stack
 
 - **Frontend**: React.js, Tailwind CSS, Recharts  
-- **Backend**: Spring Boot, Node js  
+- **Backend**:  Node js  
 
 
 ---
