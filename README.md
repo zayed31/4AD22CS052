@@ -72,7 +72,7 @@ Frontend available at: `http://localhost:3000`
 - **Dashboard View - Amazon Stock Price**  
   ![Dashboard View](https://drive.google.com/uc?export=view&id=1MjUc3GreRuk1oQWimPjLU5jitZg-y-Tt)
 
-- **Fetching Amazon Stock Price**  
+- **Fetching Nvidia Stock Price**  
   ![Amazon Stock](https://drive.google.com/uc?export=view&id=1hhVtREh1lrxnhH0ePT1fFQOtq3h-vAtX)
 
 - **HeatMap Display**  
